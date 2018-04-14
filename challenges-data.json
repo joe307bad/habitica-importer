@@ -1,0 +1,609 @@
+{
+  "success": true,
+  "data": [
+    {
+      "tasksOrder": {
+        "habits": [
+          "1a363630-3337-45b5-bf3a-12068926fd3a"
+        ],
+        "dailys": [],
+        "todos": [
+          "784610b9-5dc2-49a5-9505-fe749caa1673",
+          "7530fb6b-1a8e-4432-bc14-85229937135b"
+        ],
+        "rewards": []
+      },
+      "official": false,
+      "memberCount": 16,
+      "prize": 2,
+      "categories": [
+        {
+          "_id": "5ad0da3688b7f2002406fe0c",
+          "slug": "location_based",
+          "name": "location_based"
+        }
+      ],
+      "createdAt": "2018-04-13T16:26:30.049Z",
+      "updatedAt": "2018-04-14T21:45:03.276Z",
+      "_id": "8c117e0a-30f3-4480-b225-dc06ae9f95ce",
+      "name": ":speech_balloon::earth_asia: The Land Downunder - Socialising Challenge!",
+      "summary": "If you are an Aussie or a Kiwi, then it's time to join The Land Downunder guild! This challenge encourages you to join and socialise in the guild with other antipodean people...",
+      "description": "[The Land Downunder](https://habitica.com/groups/guild/869fda7a-0b84-4807-8306-52ab8ed787f2) is a guild for Aussies and Kiwis to hang out and chat about antipodean life.\n\nThis challenge is easy! Join and socialise in the guild!\n\nChallenge will end **31st May 2018**. The winner will receive 2 :gem:s, and 3 runners-up will receive 1 :gem: each! Winners will be chosen randomly from those who have participated in the challenge and filled in the designated To-Do.",
+      "group": {
+        "privacy": "public",
+        "categories": [],
+        "_id": "00000000-0000-4000-A000-000000000000",
+        "leader": "7bde7864-ebc5-4ee2-a4b7-1070d464cdb0",
+        "name": "Tavern",
+        "type": "guild",
+        "summary": "Tavern",
+        "id": "00000000-0000-4000-A000-000000000000"
+      },
+      "leader": {
+        "profile": {
+          "name": "indescribble"
+        },
+        "_id": "b27804f4-ffbf-441a-b98b-f50bbf1ce1a2",
+        "id": "b27804f4-ffbf-441a-b98b-f50bbf1ce1a2"
+      },
+      "shortName": ":speech_balloon::earth_asia:",
+      "id": "8c117e0a-30f3-4480-b225-dc06ae9f95ce"
+    },
+    {
+      "tasksOrder": {
+        "habits": [
+          "23cff4a1-6b90-4b38-a7ed-8557e720d3d5",
+          "abb83e46-96f9-4c04-83ac-71006ac650a3",
+          "56a7cb4f-85a0-4b5d-a331-3781c1e5a937",
+          "fc4355a4-f60f-4b9d-bda3-a6cc98afe48a",
+          "5df01a64-c918-4dd5-94b9-c71a6f21c679",
+          "a0865c85-be35-46d8-92cc-07139e205508",
+          "ead62b0b-5668-4746-826a-cf37f5b8d12e"
+        ],
+        "dailys": [
+          "351a7887-c139-4533-876a-258431d43625",
+          "15f27c3a-165c-4fd6-ac52-5ca0d929026c",
+          "ab644bc5-9292-4a87-9410-9f17335b739c",
+          "63d866eb-23e1-45af-870c-4479ac141615",
+          "3c885072-5d45-4c47-816e-6fcf70e6500d",
+          "2a8842f6-194f-4968-addc-25095babdd95",
+          "92defb16-7211-41d6-bba6-82b6de869ce3"
+        ],
+        "todos": [
+          "d6f5e315-c7e2-47e9-9975-85ba3aa7cf5c",
+          "7856947e-20dc-44ec-82aa-5d44736e36aa"
+        ],
+        "rewards": []
+      },
+      "official": false,
+      "memberCount": 89,
+      "prize": 5,
+      "categories": [
+        {
+          "_id": "5ad03d97b6caf7000dad331b",
+          "slug": "mental_health",
+          "name": "mental_health"
+        }
+      ],
+      "createdAt": "2018-04-13T05:18:15.637Z",
+      "updatedAt": "2018-04-14T23:16:13.494Z",
+      "_id": "3b25eb90-1692-45cb-9407-ac804162f20c",
+      "name": "Fighting depression - one baby step at a time",
+      "summary": "When you are depressed, it feels impossible to keep track of the plans you have made. What about making a new plan, focusing only in getting better, before trying to climb mountains?",
+      "description": "Please feel free to change anything you feel that works better for you, and don't hesitate to contact me to suggest any improvement.\nBut, on top of everything, remember: IT GETS BETTER AND YOU ARE DOING WELL.\n",
+      "group": {
+        "privacy": "public",
+        "categories": [],
+        "_id": "00000000-0000-4000-A000-000000000000",
+        "leader": "7bde7864-ebc5-4ee2-a4b7-1070d464cdb0",
+        "name": "Tavern",
+        "type": "guild",
+        "summary": "Tavern",
+        "id": "00000000-0000-4000-A000-000000000000"
+      },
+      "leader": {
+        "profile": {
+          "name": "Veghita"
+        },
+        "_id": "1c34669e-ec96-4094-b806-506b2364d477",
+        "id": "1c34669e-ec96-4094-b806-506b2364d477"
+      },
+      "shortName": "Fight Depression",
+      "id": "3b25eb90-1692-45cb-9407-ac804162f20c"
+    },
+    {
+      "tasksOrder": {
+        "habits": [
+          "f288dbb8-339c-474d-abe1-c8dd4adaf188"
+        ],
+        "dailys": [
+          "d021eed6-246f-465e-abdd-ab91db898a19"
+        ],
+        "todos": [
+          "fe18892a-d21d-401c-a838-c3812fc521b9",
+          "8fdd05b6-4f5f-428b-bb86-0386b4920b60"
+        ],
+        "rewards": [
+          "cd252564-573b-4e1e-bc1b-ac242dc2a3f5",
+          "f4da252f-fb0b-4df8-a8a5-46fdc9611c16"
+        ]
+      },
+      "official": false,
+      "memberCount": 47,
+      "prize": 3,
+      "categories": [
+        {
+          "_id": "5ad01a8cf2ce5800120e82d2",
+          "slug": "health_fitness",
+          "name": "health_fitness"
+        }
+      ],
+      "createdAt": "2018-04-13T02:48:44.530Z",
+      "updatedAt": "2018-04-14T22:43:36.598Z",
+      "_id": "27e483b7-41ba-420c-9066-fc491523b2b1",
+      "name": "Terrible Take-Out Temptations: The Tackling",
+      "summary": "If you're anything like me, you're tempted after a long day to skip the kitchen and grab take-out. This challenge is to motivate you to eat meals at home rather than fast food and take-out.",
+      "description": "This challenge was inspired by the Collecting Stars challenge which is really helping me stay motivated. In this challenge you will collect slices of pizza! :pizza: You collect a slice of pizza when you cook dinner at home. Collect five slices of pizza and you earn a pie. A pie is worth 150 gold which you can use to buy a day off cooking dinner or anything else instead! Use FCV to give yourself the 150 gold (Settings > Site > Fix Character Values)\n\nBrought lunch or breakfast from home? :doughnut: Give yourself a little extra EXP with the habit task. \n\nWinner will be whoever earns the most pizza pies + slices! Happy cooking! \n\nSTART: APR 13\nEND: MAY 1",
+      "group": {
+        "privacy": "public",
+        "categories": [],
+        "_id": "00000000-0000-4000-A000-000000000000",
+        "leader": "7bde7864-ebc5-4ee2-a4b7-1070d464cdb0",
+        "name": "Tavern",
+        "type": "guild",
+        "summary": "Tavern",
+        "id": "00000000-0000-4000-A000-000000000000"
+      },
+      "leader": {
+        "profile": {
+          "name": "baristatam"
+        },
+        "_id": "3915299c-de8a-4c47-8847-855cb55b3cc9",
+        "id": "3915299c-de8a-4c47-8847-855cb55b3cc9"
+      },
+      "shortName": "takeouttrouble",
+      "id": "27e483b7-41ba-420c-9066-fc491523b2b1"
+    },
+    {
+      "tasksOrder": {
+        "habits": [
+          "c2c16511-c2fa-4346-b656-94b749c1e130",
+          "7b77ec0b-63ea-47eb-963f-ab8bbc5eeae9",
+          "420ac829-1139-44f5-8a4e-bd8950090697"
+        ],
+        "dailys": [
+          "5adb0b05-5310-46a8-a493-a840c3935af7"
+        ],
+        "todos": [
+          "0916ece1-56ac-4cfa-b3c3-953232ccf552",
+          "3b651150-167a-4b1a-be2b-d37894ff33ea",
+          "7fd318bb-6d58-4048-8ddc-ccedeade0973"
+        ],
+        "rewards": [
+          "1d0f48d7-aeca-46d9-a221-a65500cf334d",
+          "60f2e627-9a94-4e4e-ad96-85990fa85d07",
+          "fb1abbaf-bfdf-440e-8d6a-e25cceaf1dba"
+        ]
+      },
+      "official": false,
+      "memberCount": 67,
+      "prize": 5,
+      "categories": [
+        {
+          "_id": "5acf60f3ece49c0017c5e14c",
+          "slug": "hobbies_occupations",
+          "name": "hobbies_occupations"
+        },
+        {
+          "_id": "5acf60f3ece49c0017c5e14b",
+          "slug": "getting_organized",
+          "name": "getting_organized"
+        },
+        {
+          "_id": "5acf60f3ece49c0017c5e14a",
+          "slug": "self_improvement",
+          "name": "self_improvement"
+        },
+        {
+          "_id": "5acf60f3ece49c0017c5e149",
+          "slug": "time_management",
+          "name": "time_management"
+        },
+        {
+          "_id": "5acf60f3ece49c0017c5e148",
+          "slug": "entertainment",
+          "name": "entertainment"
+        }
+      ],
+      "createdAt": "2018-04-12T13:36:51.543Z",
+      "updatedAt": "2018-04-14T23:05:50.103Z",
+      "_id": "407d48ff-0c5e-4f8e-a16d-f215d21d4979",
+      "name": "Hunt a Rathalos! Monster Hunters' April Quest",
+      "summary": "Hunt a Rathalos by pursuing your goals!",
+      "description": "This is a Passion/Goal Setting Challenge. The Tasks will require you to set your goals and pursue them. This Challenge is part of the Monster Hunter's Guild. If you like this Challenge, there will be plenty more there. The winner will be chosen based on performance and fair play.\n___\nThe [Monster Hunter's Guild](https://habitica.com/groups/guild/3dfcbe17-d709-483b-b66d-b0c442f38b3b) has been quiet lately. After the events at Redholm, the guildmaster left for a while, saying only that he had to go because \"The Tax Man cometh!\"\n___\nToday is another serene day as you sit at one of the big wooden tables in the mess hall. It's been nice to have a break, but things have been so dull lately...you begin to wonder when things will pick up again.\n___\nJust then, you hear a commotion down the hall, towards the entrance of the Guild. As you get closer to investigate, you see a crowd gathering around a figure holding a large stack of papers in one hand and what looks like a staff in the other hand.\n___\n**Azuran**:Yes, yes, I'm back, now if everyone could please let me through I'm really tired of carrying all this stuff, unless one of you wants to take these off my hands.\n___\nA few guild members you recognize rush to help him, chattering the whole time.\n___\n**Azuran**: Yes, I'm done with my trip, I'm back for good now...no, I didn't hunt anything while I was away...YOU GOT A PET WHAT?? You'd better not be keeping one of those things in the Guild!\n___\nAfter disappearing into his office and apparently dropping his load, Azuran reappears and calls everyone in the guild over to him.\n___\n**Azuran**:As you can all see, I'm back. There's no time to celebrate, however, as I've already got word that there's a Rathalos on the loose in the foothills of Mount Habitica. I'll need all hands I can get, so if you want some Gold and a chance at winning some gems, gear up. We're heading out right away.\n___\nThere's a few cheers and a few grumbles, but both the grumblers and the excited members begin to move about. You run and grab your gear. Finally, the hunt is on again.\n___\nPrevious winners:\n\nSlay a Rathalos! June Quest: @ShadeHuntress\n\nSlay a Royal Ludroth! June Quest: @BatsintheBelfry\n\nSlay a Nerscylla! July Quest: @siennra\n\nSlay a Dire Miralis! August Quest: @SwedishKoala\n\nSlay or Repel the Abyssal Lagiacrus! January Quest: @Corhal\n\nNote: The winner of this Challenge will be determined based primarily on the \"Slay the Beast!\" Habit, and the Daily, among other factors. It is very obvious when someone isn't playing fairly, so you will be disqualified if you join the Challenge and immediately click off all the To-Dos, or click the Habit when you clearly didn't actually meet the requirements for it.",
+      "group": {
+        "privacy": "public",
+        "categories": [],
+        "_id": "00000000-0000-4000-A000-000000000000",
+        "leader": "7bde7864-ebc5-4ee2-a4b7-1070d464cdb0",
+        "name": "Tavern",
+        "type": "guild",
+        "summary": "Tavern",
+        "id": "00000000-0000-4000-A000-000000000000"
+      },
+      "leader": {
+        "profile": {
+          "name": "Azuran"
+        },
+        "_id": "242241ad-cbf2-4f1d-8549-ed1f24a3476b",
+        "id": "242241ad-cbf2-4f1d-8549-ed1f24a3476b"
+      },
+      "shortName": "Rath",
+      "id": "407d48ff-0c5e-4f8e-a16d-f215d21d4979"
+    },
+    {
+      "tasksOrder": {
+        "habits": [
+          "666d62b3-4a4a-4aca-8bed-9c75f498424d"
+        ],
+        "dailys": [
+          "7e9b060b-10a4-4f17-ab0a-9b8bd9933b8b"
+        ],
+        "todos": [],
+        "rewards": []
+      },
+      "official": false,
+      "memberCount": 40,
+      "prize": 2,
+      "categories": [
+        {
+          "_id": "5ace2ff2e7d2cb0011d6b4c5",
+          "slug": "self_improvement",
+          "name": "self_improvement"
+        }
+      ],
+      "createdAt": "2018-04-11T15:55:30.641Z",
+      "updatedAt": "2018-04-14T23:23:43.886Z",
+      "_id": "c477002c-324f-4c88-ad9f-6450efa95e4f",
+      "name": "Daily Anki April Challenge",
+      "summary": "If you are new to Anki or SRS in general, now is a great time to start. It works best if you do it every day, so it's a great match for Habitica. We also have a guild for Anki and SRS Enthusiasts, join us!",
+      "description": "Get motivated to keep up with your SRS tasks!",
+      "group": {
+        "privacy": "public",
+        "categories": [],
+        "_id": "00000000-0000-4000-A000-000000000000",
+        "leader": "7bde7864-ebc5-4ee2-a4b7-1070d464cdb0",
+        "name": "Tavern",
+        "type": "guild",
+        "summary": "Tavern",
+        "id": "00000000-0000-4000-A000-000000000000"
+      },
+      "leader": {
+        "profile": {
+          "name": "petiteviolette"
+        },
+        "_id": "8488f37f-e4be-4f22-90a8-0c98d8826e78",
+        "id": "8488f37f-e4be-4f22-90a8-0c98d8826e78"
+      },
+      "shortName": "anki-every-day",
+      "id": "c477002c-324f-4c88-ad9f-6450efa95e4f"
+    },
+    {
+      "tasksOrder": {
+        "habits": [
+          "a6643894-8c39-455b-8d81-c9206ac03388"
+        ],
+        "dailys": [],
+        "todos": [
+          "f2662f09-c2fe-4257-9922-36738930c385",
+          "0f079284-ffdb-4c60-a745-0bbafe5a8bf1",
+          "2c302e3a-0220-485c-a015-71f315f5e4c9",
+          "ccd57319-37dc-4cb1-a002-daf244360595",
+          "516cbadb-f3cb-4fd7-a142-c965ec30df7b",
+          "6be76cf2-a4a8-452e-8657-82b05b693ec3",
+          "78de6fc2-c5e1-45b9-9bd6-fe8aac6ad385",
+          "22d6e343-3a93-491f-976d-c4914afd7ac4",
+          "43bb8fe0-41d8-4149-9e2f-9ad089f38fcd",
+          "efb05c98-a18b-4136-94f9-b109ad54ba46"
+        ],
+        "rewards": []
+      },
+      "official": false,
+      "memberCount": 13,
+      "prize": 2,
+      "categories": [
+        {
+          "_id": "5acdd546ff0af2001fe32c82",
+          "slug": "hobbies_occupations",
+          "name": "hobbies_occupations"
+        },
+        {
+          "_id": "5acdd546ff0af2001fe32c81",
+          "slug": "getting_organized",
+          "name": "getting_organized"
+        }
+      ],
+      "createdAt": "2018-04-11T09:28:38.154Z",
+      "updatedAt": "2018-04-14T10:56:07.109Z",
+      "_id": "b1968076-be3e-491f-b6a1-344f1a94d810",
+      "name": ":family: ReStart your ancestry research",
+      "summary": "Started ancestry research and got more information than you could think of, and now you're stuck because you never really organized your things? Then maybe this Challenge is for you.",
+      "description": "I really need to organize my stuff and rethink some things, before I continue to research my ancestors. To get started I decided to create a Challenge and hope some of you can use it too.  \nIt's a little wild, so I probably forgot one or two Tasks.  \n\n\n&nbsp;\n\n\nIf the Challenge isn't for you but you're interested in Genealogy: Check out the [Ancestors, Heritage and Genealogy](https://habitica.com/groups/guild/658b25b0-daec-451b-b945-7e093cbed262)-Guild\n\n\n&nbsp;\n\n\nI'll close the Challenge around End of May / Beginning of June",
+      "group": {
+        "privacy": "public",
+        "categories": [],
+        "_id": "00000000-0000-4000-A000-000000000000",
+        "leader": "7bde7864-ebc5-4ee2-a4b7-1070d464cdb0",
+        "name": "Tavern",
+        "type": "guild",
+        "summary": "Tavern",
+        "id": "00000000-0000-4000-A000-000000000000"
+      },
+      "leader": {
+        "profile": {
+          "name": "monkiii"
+        },
+        "_id": "a8eaf70b-c913-42a6-87fe-8a35c068a489",
+        "id": "a8eaf70b-c913-42a6-87fe-8a35c068a489"
+      },
+      "shortName": ":family: ancestors",
+      "id": "b1968076-be3e-491f-b6a1-344f1a94d810"
+    },
+    {
+      "tasksOrder": {
+        "habits": [],
+        "dailys": [],
+        "todos": [
+          "38c5a81e-bf87-490d-8d5d-69d72c6f3273",
+          "a76e0225-8b63-46cd-8385-e0c196556604",
+          "1a5992aa-6cea-4dd7-a357-07288b304027",
+          "ee71a297-f254-4fdc-9077-f6e30614a6ac",
+          "46b5d745-84d4-42fb-ad50-f0e8424a58d1",
+          "5d1b7571-3d6d-40bd-ac0b-dec47af0b8e3",
+          "9635291d-d451-4f5a-a44e-71cd8ec6ca53"
+        ],
+        "rewards": []
+      },
+      "official": false,
+      "memberCount": 33,
+      "prize": 3,
+      "categories": [
+        {
+          "_id": "5acdc0e0063d49001f122fed",
+          "slug": "getting_organized",
+          "name": "getting_organized"
+        }
+      ],
+      "createdAt": "2018-04-11T08:01:36.736Z",
+      "updatedAt": "2018-04-14T22:25:28.465Z",
+      "_id": "b05d5cc4-fd06-44a4-9121-c93ae8e815ec",
+      "name": "The Crest of Borrowed Books (Episode 6)",
+      "summary": "A TBR reading challenge that focuses on borrowed books.",
+      "description": "On your way to climbing Mount TBR, you decide to take a less trodden path. To your feet, hidden beneath the well-known volumes that have been there since the beginning, you see a whole new crest. Slowly you realize that it is the crest you have been seeing from the distance, but avoided for unknown reasons. After taking a closer look, you recognize it as the Crest of Borrowed Books. How did it get so big? How much time has gone by since anyone tried to climb it? You're not sure how safe it is to get up there, but you're intrigued and decide to take a closer look.\n\n&nbsp;\n\nThis challenge is designed to focus on the books in your TBR pile that aren't actually yours: If you're like me, your friends know you love books and sometimes give you one they think you'd appreciate. Or you mention that a certain book sounds interesting and next thing you know, it is on top of your TBR pile. Or you have library books over library books you somehow don't get to. Participate in this challenge and make an extra-effort to return those books back to their homes.\n\n&nbsp;\n\nThe winner will be chosen by RNG of all participants who have checked the \"Destination reached!\" task. The challenge will run untill May 9th.\n\n&nbsp;\n\nPS: If you don't know it yet (which i really doubt), check out @shanaqui's [\"Climbing Mt. To Be Read\"](https://habitica.com/challenges/6182b93c-bec4-403a-8c6b-4f39f19beb26) challenge!",
+      "group": {
+        "privacy": "public",
+        "categories": [],
+        "_id": "00000000-0000-4000-A000-000000000000",
+        "leader": "7bde7864-ebc5-4ee2-a4b7-1070d464cdb0",
+        "name": "Tavern",
+        "type": "guild",
+        "summary": "Tavern",
+        "id": "00000000-0000-4000-A000-000000000000"
+      },
+      "leader": {
+        "profile": {
+          "name": "spelunk"
+        },
+        "_id": "134f4ef6-7c37-4162-a14f-692ad3338d20",
+        "id": "134f4ef6-7c37-4162-a14f-692ad3338d20"
+      },
+      "shortName": ":foggy: borrowed6",
+      "id": "b05d5cc4-fd06-44a4-9121-c93ae8e815ec"
+    },
+    {
+      "tasksOrder": {
+        "habits": [
+          "029edd77-d8e7-468b-960e-a590571a5768",
+          "327e8233-b5db-41dc-8af8-5fd43e00b307",
+          "998c77cb-3aa9-4663-ab2b-dc03e0c50dff",
+          "22101e9b-a95b-4797-bef4-8b031ea17435",
+          "f2a5000f-4934-48db-b8c1-206aafc81461",
+          "2d9416db-fbf8-4b71-81f6-a01e65a20e4f",
+          "68e36c81-9002-4fe3-9766-73d10c13b785",
+          "f919d865-c72d-4a9e-85ba-3d5efa810d62",
+          "38735438-c0d5-4696-b40e-a3a1e020767d",
+          "5c663473-e2a4-4e38-83c5-5f6a22905d37",
+          "e952589a-b553-417b-9cef-221f33023cfb",
+          "d865ac4f-7e70-4a75-b6a7-6359e2df1012",
+          "bd30e5c9-6289-45c4-8841-cc35fafd3226",
+          "c9330147-f78a-4711-b7c0-2b74f0984987",
+          "7988b0d2-688e-41fa-b410-8102e4e31474",
+          "6c4c5dd8-c897-44b2-bf2f-9dc95ad376a7",
+          "c103e4fc-206f-400a-ad3b-85b5fad5a8de",
+          "4bfdc358-48ed-4b5f-8175-798e86e68d56",
+          "fc1c1003-3b8a-48c0-8c4e-e79c8cbd92bd",
+          "ed94f658-11ba-4602-9492-809df7bcd41c",
+          "3167fb79-7e5b-472c-91c3-aaae4af3654b",
+          "33560bbf-c0d2-4a52-8bee-617f114443bd",
+          "76def9b8-b026-4301-a256-8b4f146d9949",
+          "fddece32-46f1-44b0-a0d9-bde7d4109b1b",
+          "ab9f070d-fc99-438c-9d01-d3451dc0ca42",
+          "7d673a55-0d3a-4764-9f23-4aeb0910b0ff",
+          "7a17b97f-b2a8-4222-869e-a680981ab1c4",
+          "5902e962-97fb-403c-88a5-92971ebf3e51",
+          "6e4bd34b-2663-4e8c-a957-ba561f5a2f2c",
+          "5ab4c7e6-0310-4e0b-956b-fc8653bfadd5",
+          "b82a0f4a-4cac-49f7-ae83-f2c30e4d9a3e",
+          "a78a83e2-fcf0-4aaa-98ac-5d636ccbf41e",
+          "32a7a5e3-3265-4c9b-b671-2b45be090c77",
+          "f6fb4fd4-f8f3-4ae4-989e-7c9d441df927",
+          "44318572-132f-4aa5-9861-b4a25173aa50",
+          "c2dafc44-d70d-4f37-81b3-0c46a97d5f84",
+          "8ca86286-2fe9-45e5-af7d-6077c5fb1ab8",
+          "f55a6cdb-616d-48de-8a61-abecbe2c8892",
+          "30bdf46e-c833-49b5-9e69-0ceacdb25c7e",
+          "e95146b3-d877-46b5-8b91-4615c43188a1",
+          "681a4bec-1193-41ed-bd14-16c5a2621634",
+          "19086356-16c5-421f-a64b-0e0647be9559",
+          "15832874-243c-4142-bf2f-c2702130a348",
+          "1b1f953e-464e-466c-b553-34856f17a864",
+          "7bde3f3e-ee26-4aab-b269-14b83f1cba6f",
+          "ead13c29-4e47-4055-9ff2-2c050250209f",
+          "671b7329-8fa6-47d9-ac25-583b6e64289f",
+          "5fd166d2-ccdf-44d3-a930-36f50dcf26f8"
+        ],
+        "dailys": [],
+        "todos": [
+          "097008b3-c453-4487-af84-1059552a8647",
+          "201e4f2b-bf20-42c4-a4e2-30acf8474e6c",
+          "6e42827f-f0af-4a75-a8b5-43b952aec28d"
+        ],
+        "rewards": [
+          "53b1caaa-10af-458f-b30c-0d06d35cdedc"
+        ]
+      },
+      "official": false,
+      "memberCount": 11,
+      "prize": 1,
+      "categories": [
+        {
+          "_id": "5accc0fbbf672400230c7c34",
+          "slug": "self_improvement",
+          "name": "self_improvement"
+        }
+      ],
+      "createdAt": "2018-04-10T13:49:47.304Z",
+      "updatedAt": "2018-04-14T21:23:43.196Z",
+      "_id": "920ffb3a-20ae-4d6f-85c8-3eccc706bc88",
+      "name": "Aptitudes Personnelles",
+      "summary": "Vous trouverez ici des Aptitudes personnelles à ajouter dans Habitica. Elles sont basés sur une liste des Aptitudes les plus utilisées dans les jeux de rôles et les jeux de développement personnel.",
+      "description": "###### Les Aptitudes Personnelles sont renouvelées tous les mois, veillez donc à bien noté le niveau en cours dans la description.\n\n------------\n###### FOR FRENCH PEOPLE, NO END , NO PRIZE (JUST 1 GEM FOR SHARE)\n\n------------\n###### CECI N'EST PAS UN DEFIS MAIS PLUS UN PACK DE COMPETENCES EN PLUS, A VOIR COMME UNE EXTENSION POUR ETOFFER LE JEU ET CONNAITRE MIEUX SES COMPETENCES .\n\n IL N'Y A DONC PAS DE RECOMPENSES AUTRE QUE CELLE QUE VOUS VOUS FIXER VOUS-MÊMES\n------------\nVous pouvez attribuer le succès de vos tâches à des Aptitudes (sous formes de habitudes) et augmenter en niveau d’aptitude.\n\n------------\n\n\nCe pack regroupe les Aptitudes les plus courantes.\n\n------------\n\n\nFonctionnement :\nPrincipe :\nPrenons une aptitude Test\nElle a un Niveau N.\nCette Aptitude évolue à chaque points X multiplié par N qui est le niveau de Test .\nX est un nombre que vous définirez et correspond à la “croissance de niveau”.\n\n------------\n\n\nDans notre exemple, prenons X= 10 et N = 1 pour l’aptitude Test\nA chaque tâches Test terminées et selon le barem par défaut , vous gagner des PA (Point d’Aptitudes) et vous devez appuyer sur “+” autant de fois que le nombre de PA gagné dans l’aptitude correspondantes.\nUne fois l’aptitude Test arrivé à X=X*N ,\nLe niveau N ajoute +1 à sa valeur et vous marquez dans la description “Niveau : N” (ou N correspond à la valeur calculé juste avant ) \n\n------------\n\n\nEXEMPLE :\n\n\n###### Aptitude Cuisine\nRéussir une Tache Cuisine(1 Niv = +10 * Nombre de Niveaux)\n\nNiveau actuel : 01\n\n------------\nOn a donc une aptitude Cuisine avec une croissance de 10 et un niveau de 1.\nC’est-à dire qu’il faut faire 10 PA Cuisines pour atteindre le Niveau 2.  (soit 1 Niv = (+10PA * NbNiv) donc (10 * 1) = 10)\n\nUne fois le niveau 2 passé, voici ce qu’il se passe :\n------------\n###### Aptitude Cuisine\nRéussir une Tache Cuisine(1 Niv = +10 * Nombre de Niveaux)\n\nNiveau actuel : 02\n\n------------\n\n\nOn a donc une aptitude Cuisine avec une croissance de 10 et un niveau de 2.\nC’est-à dire qu’il faut faire 20 PA Cuisines pour atteindre le Niveau 3 car 10*2 = 20\n (soit 1 Niv = (+10PA * NbNiv) donc (10 * 2) = 20)\n\n------------\n\n\nBarem des tâches par défaut :\n- Quête banale : +1 PA\n- Quête Facile : +2 PA\n- Quête Moyen : +3 PA\n- Quête Difficile : +5 PA\n\n------------\n###### Vous pouvez modifer le barème à votre guise, c'est juste celui par défaut pour montrer l'exemple\n",
+      "group": {
+        "privacy": "public",
+        "categories": [],
+        "_id": "00000000-0000-4000-A000-000000000000",
+        "leader": "7bde7864-ebc5-4ee2-a4b7-1070d464cdb0",
+        "name": "Tavern",
+        "type": "guild",
+        "summary": "Tavern",
+        "id": "00000000-0000-4000-A000-000000000000"
+      },
+      "leader": {
+        "profile": {
+          "name": "Donk7413"
+        },
+        "_id": "85a6810e-c865-4977-b087-1997206860fb",
+        "id": "85a6810e-c865-4977-b087-1997206860fb"
+      },
+      "shortName": "Compétences Personnelles",
+      "id": "920ffb3a-20ae-4d6f-85c8-3eccc706bc88"
+    },
+    {
+      "tasksOrder": {
+        "habits": [],
+        "dailys": [],
+        "todos": [
+          "bef538ad-059f-47a4-997f-3ee1881c51f5",
+          "52ea6224-8773-4286-8e86-5891f44896f4",
+          "d6e05d66-7f1e-42d8-ba6b-80341abb3383"
+        ],
+        "rewards": []
+      },
+      "official": false,
+      "memberCount": 15,
+      "prize": 1,
+      "categories": [
+        {
+          "_id": "5acc455a1133bd0012bf9ea9",
+          "slug": "entertainment",
+          "name": "entertainment"
+        },
+        {
+          "_id": "5acc455a1133bd0012bf9ea8",
+          "slug": "creativity",
+          "name": "creativity"
+        }
+      ],
+      "createdAt": "2018-04-10T05:02:18.625Z",
+      "updatedAt": "2018-04-14T17:50:48.534Z",
+      "_id": "6f79d18c-6bf7-4b0c-93af-8f67917a2b75",
+      "name": ":star: Badia's Music Appreciation Challenge - Amr Diab",
+      "summary": ":star: Welcome to Badia's Music Appreciation Challenge. This is a series of challenges that explores musicians and songs that are influential in the international belly dance community.",
+      "description": ":star: This installment features the well-known song, artist Amr Diab\n\nTo complete the challenge, listen to/watch the videos\n\n[Ana Ayesh](https://www.youtube.com/watch?v=wAGjLdf2GFE)\nand \n[Habibi Ya Nour El Ein](https://www.youtube.com/watch?v=KLJA-srM_yM)\n\n and then comment about them in Badia's Belly Dance Hafla Guild.\nTo qualify for the gem prize, you must leave a comment in the Badia's Belly Dance Guild by June 1st.\n\nfor more information about this artist/song:\nhttp://www.amrdiab.net",
+      "group": {
+        "privacy": "public",
+        "categories": [],
+        "_id": "00000000-0000-4000-A000-000000000000",
+        "leader": "7bde7864-ebc5-4ee2-a4b7-1070d464cdb0",
+        "name": "Tavern",
+        "type": "guild",
+        "summary": "Tavern",
+        "id": "00000000-0000-4000-A000-000000000000"
+      },
+      "leader": {
+        "profile": {
+          "name": "eleanorthetroubadour"
+        },
+        "_id": "303352d0-c666-4e49-a93f-207dab11814a",
+        "id": "303352d0-c666-4e49-a93f-207dab11814a"
+      },
+      "shortName": ":star: music",
+      "id": "6f79d18c-6bf7-4b0c-93af-8f67917a2b75"
+    },
+    {
+      "tasksOrder": {
+        "habits": [],
+        "dailys": [],
+        "todos": [
+          "823d0961-0d9f-4bb0-8672-678b4426126e",
+          "f32ae3df-3313-48ec-ace6-a37d55a03fa4",
+          "ad7b1a7b-e212-446c-8182-d56b9b6c42f7",
+          "d33f9977-9618-4054-bf5a-1dda4653378b",
+          "6b8d7819-1c99-458c-9f84-1a09aee8e2a9",
+          "ae1998a3-0bf5-4efe-b627-699d22ca47a6",
+          "5162cb60-f2be-49ee-a8cf-f4f180f8e72b",
+          "6da6de95-7535-4563-8cd9-a4e10cd6212e"
+        ],
+        "rewards": []
+      },
+      "official": false,
+      "memberCount": 13,
+      "prize": 1,
+      "categories": [
+        {
+          "_id": "5acb87b904211c002554784b",
+          "slug": "time_management",
+          "name": "time_management"
+        }
+      ],
+      "createdAt": "2018-04-09T15:33:13.363Z",
+      "updatedAt": "2018-04-14T23:15:18.385Z",
+      "_id": "8525f251-389a-4326-8109-38180cdcc12b",
+      "name": "MPT's Unemployment Challenge",
+      "summary": "Stuff I gotta do to generate income while job searching. Probably only applies to me.",
+      "description": "Stuff I gotta do to generate income while job searching. Probably only applies to me.",
+      "group": {
+        "privacy": "public",
+        "categories": [],
+        "_id": "00000000-0000-4000-A000-000000000000",
+        "leader": "7bde7864-ebc5-4ee2-a4b7-1070d464cdb0",
+        "name": "Tavern",
+        "type": "guild",
+        "summary": "Tavern",
+        "id": "00000000-0000-4000-A000-000000000000"
+      },
+      "leader": {
+        "profile": {
+          "name": "thayeriv"
+        },
+        "_id": "98792646-6e1c-4947-bb3a-e68e0e03d87c",
+        "id": "98792646-6e1c-4947-bb3a-e68e0e03d87c"
+      },
+      "shortName": "MPT",
+      "id": "8525f251-389a-4326-8109-38180cdcc12b"
+    }
+  ],
+  "notifications": [],
+  "userV": 11,
+  "appVersion": "4.37.1"
+}
